@@ -12,7 +12,7 @@ Opensource SW Project (https://dacon.io/competitions/official/235902/overview/de
 심리학 테스트 데이터를 분석하여 "심리 성향을 예측"하는 알고리즘을 개발합니다.
 
 ## 데이터 분류
-[Data Description](https://github.com/f1v3-dev/opensource/blob/main/data_desc)
+[Data Description](https://github.com/f1v3-dev/opensource/blob/main/data_desc.ipynb)
 
 ## 데이터 분류 점수
 
