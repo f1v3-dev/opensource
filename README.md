@@ -4,6 +4,7 @@ Opensource SW Project (https://dacon.io/competitions/official/235902/overview/de
 ## 개발환경
 - Visual Studio Code
 - Anaconda3
+- Colab
 
 ## 언어
 - Python
