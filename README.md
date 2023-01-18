@@ -55,5 +55,5 @@ pycaret을 사용하여 각 모델들을 비교
 
 
 ## 코드 제출
-![image](https://user-images.githubusercontent.com/84575041/213083466-1ed273f3-7ec8-44db-9017-9805697cefff.png)
+![image](https://user-images.githubusercontent.com/84575041/213085055-927c8584-166f-48e8-a3b5-118131bd0dd7.png)  
 각각의 모델들을 앙상블하여 제출하였을 때 LGBM + Extra Trees의 결과가 제일 높게 나온 것을 확인할 수 있음.
