@@ -15,6 +15,9 @@ Opensource SW Project (https://dacon.io/competitions/official/235902/overview/de
 ## 데이터 설명
 [Data Description](https://github.com/f1v3-dev/opensource/blob/main/data_desc.ipynb)
 
+## 소스코드
+[Source Code] (https://github.com/f1v3-dev/opensource/blob/main/project.ipynb)
+
 ## 데이터 전처리 
   
 ### Q1 ~ Q20
