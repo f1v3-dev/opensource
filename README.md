@@ -35,7 +35,7 @@ Opensource SW Project (https://dacon.io/competitions/official/235902/overview/de
 (출처 : https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=bhtalk&logNo=220747143871)  
 
 
-### vCL1 ~ vCL20
+### VCL1 ~ VCL20
 해당 단어를 보고 자신이 아는 단어인지 아닌지 0(don't know), 1(know)로 판단  
 
 ### age
@@ -48,5 +48,12 @@ children, adult, middle age, old age로 분류하여 파생변수 생성
 ### 시간 관련 컬럼 ['introelapse', 'testelapse', 'surveyelapse']
 해당 컬럼은 nerdiness의 값과 상관관계가 적다고 판단하여 drop  
 
+## 모델 선정
+pycaret을 사용하여 각 모델들을 비교  
+![image](https://user-images.githubusercontent.com/84575041/213083262-ccbc0578-29a0-4aa7-a7d3-8df794eb1ff8.png)  
+위와같은 결과에 따라 상위 3개의 모델인 Extra Trees, Random Forest, LightGBM을 사용하여 앙상블하여 성능 향상  
 
+
+## 코드 제출
+![image](https://user-images.githubusercontent.com/84575041/213083466-1ed273f3-7ec8-44db-9017-9805697cefff.png)
 
