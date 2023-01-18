@@ -51,9 +51,9 @@ children, adult, middle age, old age로 분류하여 파생변수 생성
 ## 모델 선정
 pycaret을 사용하여 각 모델들을 비교  
 ![image](https://user-images.githubusercontent.com/84575041/213083262-ccbc0578-29a0-4aa7-a7d3-8df794eb1ff8.png)  
-위와같은 결과에 따라 상위 3개의 모델인 Extra Trees, Random Forest, LightGBM을 사용하여 앙상블하여 성능 향상  
+위와같은 결과에 따라 상위 3개의 모델인 Extra Trees, Random Forest, LightGBM을 사용하여 앙상블하여 성능 향상을 목표로 함  
 
 
 ## 코드 제출
 ![image](https://user-images.githubusercontent.com/84575041/213083466-1ed273f3-7ec8-44db-9017-9805697cefff.png)
-
+각각의 모델들을 앙상블하여 제출하였을 때 LGBM + Extra Trees의 결과가 제일 높게 나온 것을 확인할 수 있음.
