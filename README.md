@@ -23,7 +23,7 @@ Opensource SW Project (https://dacon.io/competitions/official/235902/overview/de
 ### Q1 ~ Q20
 마키아벨리즘에 관한 질문에 대해 점수를 합산  
 질문 중 마키아벨리즘에 반대되는 질문에 점수를 높게 부여한 경우 점수를 낮춤  
-합산 결과가 60점이 넘을 경우 high_makia라는 파생 변수에 1을 부여, 넘지 않으면 0  
+합산 결과가 60점이 넘을 경우 high_makia라는 파생 변수에 1을 부여, 넘지 않으면 0으로 설정  
 
 
 
